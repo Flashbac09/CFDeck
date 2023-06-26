@@ -1,10 +1,16 @@
 # CFDeck
-Here is my deck of CFD-related code.
+Here is my deck of CFD-related code. This set is developed mostly during an entry-level CFD course.
 
-This set is developed mostly during an entry-level CFD course.
 
-Short descriptions and comments are attached to the code. 
+The 8 cases are:
 
-Full reports are excluded and kept private. 
+- Airfoil Mesh
+- Differential Error Test
+- First Order Wave Equation
+- Linear Burgers Equation
+- Laplace Equation
+- Method of Weighted Residuals
+- Flow Around Circular Cylinder
+- Lid Driven Cavity Flow
 
-Contact me in person if you want to dive in.
+Short descriptions and comments are attached to the code and full reports are excluded from repository. Contact me in person if you want to get them.

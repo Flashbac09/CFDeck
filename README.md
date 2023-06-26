@@ -1,7 +1,7 @@
 # CFDeck
 Here is my deck of CFD-related code.
 
-This set is developed mostly an entry-level CFD course.
+This set is developed mostly during an entry-level CFD course.
 
 Short descriptions and comments are attached to the code. 
 

@@ -13,4 +13,4 @@ The 8 cases are:
 - Flow Around Circular Cylinder
 - Lid Driven Cavity Flow
 
-Short descriptions and comments are attached to the code and full reports are excluded from repository. Contact me in person if you want to get them.
+Short descriptions and comments are attached to the code and full reports are excluded from repository. Contact me in person if you are particularly interested.
